@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Bryce Marcel Collins 👋
 
-<!--
-**BryceMCollins/BryceMCollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 High School Senior
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Future Computer Science Major
+
+🏈 Varsity Football Player
+
+🏃 Track & Field Athlete
+
+⭐ Ranked #2 in my graduating class
+
+🇺🇸 Interested in serving through the DoD SMART Scholarship
+
+## Currently Learning
+
+- Python
+- Git & GitHub
+- Computer Science Fundamentals
+- Cybersecurity
+- Problem Solving
+
+## Goals
+
+- Earn a Computer Science degree
+- Build software that solves real-world problems
+- Learn cybersecurity and artificial intelligence
+- Serve my country through technology
+
+## Projects
+
+Coming Soon!
+
+- Scholarship Tracker
+- Password Manager
+- Weather App
+- Student Grade Calculator
+- Cybersecurity Log Analyzer
