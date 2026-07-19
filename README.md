@@ -37,4 +37,4 @@ Coming Soon!
 - Password Manager
 - Weather App
 - Student Grade Calculator
-- Cybersecurity Log Analyzer
+- Math Helper
